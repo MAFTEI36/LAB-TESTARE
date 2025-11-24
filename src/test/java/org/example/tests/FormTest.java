@@ -17,12 +17,12 @@ public class FormTest {
     WebDriverWait wait;
 
     static public String URL = "https://demoqa.com/automation-practice-form";
-    static public String FIRST_NAME = "Catalin";
-    static public String LAST_NAME = "Rurac";
+    static public String FIRST_NAME = "Maftei";
+    static public String LAST_NAME = "Mihai";
     static public String GENDER = "Male";
-    static public String EMAIL = "ruracatalin149@gmail.com";
-    static public String NUMBER = "0683967545";
-    static public String DATE = "15 JUN 2007";
+    static public String EMAIL = "mamihai50@gmail.com";
+    static public String NUMBER = "068385135";
+    static public String DATE = "15 JUN 2006";
     static public String SUBJECTS = "CIVICS";
     static public String HOBBY = "";
     static public String HOBBY2 = "Reading";
